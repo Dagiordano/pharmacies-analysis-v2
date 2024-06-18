@@ -8,4 +8,4 @@ This script analyzes pharmacy data from a given API endpoint and exports various
 
 # Requirements
 - Node.js
- npm (Node Package Manager)
+- npm (Node Package Manager)
